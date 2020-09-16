@@ -1,5 +1,3 @@
-//=========ROLL NUMBER:19L134========
-//=========SIVA SURYA.S===============
 
 #include<stdio.h>
 main(){
